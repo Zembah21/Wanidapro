@@ -9,17 +9,4 @@ I want everyone to know that I can fully apply the khowledgement i have learned,
 
 And I'm also a person who is easy to get along with my colleagues and always ready to learn things. Because I believe that I have to keep improving myself.
 <div style="background-color: black; padding: 20px;">
-  
-  # My README
-  
-  This is my README file content.
-  
-  ## Section 1
-  
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  
-  ## Section 2
-  
-  Sed at diam sed nunc elementum sollicitudin.
-  
 </div>
